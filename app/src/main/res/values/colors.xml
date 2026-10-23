@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FFC107</color>
+    <color name="primary_dark">#F57F17</color>
+    <color name="color_accent">#FF8F00</color>
+
+    <color name="gold_light">#FFF8E1</color>
+    <color name="gold_container">#FFECB3</color>
+    <color name="card_stroke">#FFE082</color>
+
+    <color name="tag_lost">#D32F2F</color>
+    <color name="tag_lost_bg">#FFEBEE</color>
+    <color name="tag_found">#2E7D32</color>
+    <color name="tag_found_bg">#E8F5E9</color>
+    <color name="tag_resolved">#616161</color>
+    <color name="tag_resolved_bg">#F5F5F5</color>
+
+    <color name="bg_light">#FFFDF5</color>
+    <color name="text_primary">#1C1B1F</color>
+    <color name="text_secondary">#625B71</color>
+</resources>
